@@ -1,2 +1,2 @@
-# SQL_Mastery_Hub_Projects
-In this dynamic repository, I'd like to present a meticulously curated collection of SQL prowess that goes beyond the ordinary. Our projects and analytical studies aren't just lines of code; they're strategic narratives that illuminate the art of transforming raw data into actionable insights.
+# Data Portfolio & Business Cases
+Dive into My Data Science, Machine Learning, and Analytics Portfolio: Real-World Insights & Projects. This folder showcases my expertise in data science, machine learning, and analytics through practical projects and real business case studies. Discover how I harness data to deliver actionable insights that drive informed decisions and business success.
